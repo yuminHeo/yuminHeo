@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuminHeo)](https://github.com/yuminHeo/github-readme-stats)
+![Yumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuminHeo&theme=dark&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rsdfq1230)](https://solved.ac/rsdfq1230/)
